@@ -14,14 +14,14 @@ Open your app and you should be faced with a brand new instance of the OWASP Jui
 
 **WARNING:**  Once you've deployed your heroku instance, there should be no reason to visit the `bkimminich/juice-shop` repo again.  Yes, the answers to challenges can be found in the source code, and the solutions have been posted elsewhere online.  While the internet is absolutely necessary to solve these challenges, please, for the sake of the competition, refrain from searching for any solutions.   You will be expected to show how you came upon any solution to a given problem, so no cheating! 
 
-Now that you've got your team set up and your instance of the Juice Shop running, you're ready to start hacking!  Your goal is to exploit the Juice Shop in every way possible, and you can start with challenge #1, "Finding the Score Board". Hint: if you don't see a link for it on the page, do the simple thing and check the page source!  Finding the scoreboard should be easy, and once there you can view a list of all available challenges, as on the score server.  Every time you complete a challenge, you should receive a "challenge code".  Enter this code on the score server to see your teams score updated! The team with the most points at the end of the competition wins! 
-
 Tools you will need to complete the challenges: 
 
 * Chrome Dev tools or similar 
 * Postman or another interceptor
 
 And that's it! If you want to get serious with some tools Like OWASP ZAP or Kali Linux, that's up to you.  They're not necessary for this competition.  
+
+Now that you've got your team set up and your instance of the Juice Shop running, you're ready to start hacking!  Your goal is to exploit the Juice Shop in every way possible, and you can start with challenge #1, *Finding the Score Board*. Hint: if you don't see a link for it on the page, do the simple thing and check the page source!  Finding the scoreboard should be easy, and once there you can view a list of all available challenges, as on the score server.  Every time you complete a challenge, you should receive a "challenge code".  Enter this code on the score server to see your teams score updated! The team with the most points at the end of the competition wins! 
 
 Because this is a learning experience for all of us, there is included a companion guide to get you started on all the challenges.  See [juice-shop-sliced](https://github.com/cnash6/slalom-ctf/blob/master/juice-shop-sliced.pdf).  This is a striped down version of the official walk through guide for the Juice Shop that skips all the event setup stuff and excludes the `Appendix A: Challenge Solutions`.  Obviously the very version is easy to find, so again, please refrain from cheating and stick to this PDF when looking for hints. 
 

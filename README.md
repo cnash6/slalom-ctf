@@ -4,7 +4,7 @@ Welcome to Slalom's first ever Capture The Flag competition!  Getting set up and
 
 1) Navigate to http://ctf.slalomatlanta.com/ and create your team!  There will be one login per team, and team members will share that login, so make sure to use a password you can all remember. This website will act as our score server where you will track your completed challenges.  More on that in a minute...
 
-2) Go to https://github.com/bkimminich/juice-shop#deploy-on-heroku-free-0month-dyno and click "Deploy to Heroku".  If you don't have a Heroku account, setting one up is easy and won't cost you anything.  Every team member must deploy an instance of the Jucie Shop to hack against.  Once your instance is deployed, go to `Settings > Reveal Config Vars` and add a variable:
+2) Go to [the juice shop gihub repo](https://github.com/bkimminich/juice-shop#deploy-on-heroku-free-0month-dyno) and click "Deploy to Heroku".  If you don't have a Heroku account, setting one up is easy and won't cost you anything.  Every team member must deploy an instance of the Jucie Shop to hack against.  Once your instance is deployed, go to `Settings > Reveal Config Vars` and add a variable:
 
 Key | Value
 ------------ | -------------

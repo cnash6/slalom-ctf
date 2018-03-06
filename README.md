@@ -1,7 +1,3 @@
-# Congrats to the winners! Team DonnieScottBasil!  Solutions to all problems can be found below.  Don't check if you want to keep working! 
-
-https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/part2/
-
 # Slalom CTF
 
 Welcome to Slalom's first ever Capture The Flag competition!  Getting set up and ready to hack is easy.  We'll be hacking the [OWASP](https://www.owasp.org) Juice Shop

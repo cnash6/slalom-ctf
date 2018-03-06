@@ -1,6 +1,6 @@
 # Slalom CTF
 
-Welcome to Slalom's first ever Capture The Flag competition!  Getting set up and ready to hack is easy.  We'll be hacking the [OWASP](https://www.owasp.org) Juice Shop
+Welcome to Slalom Capture The Flag!  Getting set up and ready to hack is easy.  We'll be hacking the [OWASP](https://www.owasp.org) Juice Shop
 
 1) Navigate to http://ctf.slalomatlanta.com/ and create your team!  There will be one login per team, and team members will share that login, so make sure to use a password you can all remember. This website will act as our score server where you will track your completed challenges.  More on that in a minute...
 

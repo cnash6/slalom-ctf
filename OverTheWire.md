@@ -8,4 +8,4 @@ Teams are between 1 and 3 people, but this challenge is linear so scaling number
 
 This challenge progresses in levels, with the goal of each level being to find the password for the next level.  When you unlock a level, use the pasword as the "flag" on the score server to earn points.  First team to reach the last level wins. The challenges start out hard, but get a lot harder as you go along. And that's it. Happy Hacking! 
 
-[overthewire.org/wargames/bandit](http://overthewire.org/wargames/bandit/)
+[overthewire.org/wargames/natas](http://overthewire.org/wargames/natas/)

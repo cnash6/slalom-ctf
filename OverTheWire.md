@@ -10,4 +10,4 @@ This challenge progresses in levels, with the goal of each level being to find t
 
 [overthewire.org/wargames/natas](http://overthewire.org/wargames/natas/)
 
-**IMPORTANT** Challenge keys must be entered in the score server as "CTF{XXXKEYCODEXXX}"
+

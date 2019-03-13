@@ -1,6 +1,6 @@
 # Slalom CTF - Over The Wire
 
-The goal of this CTF is simple: Get to level 26.  For this hackathon we'll be doing a challenge maintained by the OverTheWire group. First thing's first: Set up a team.
+The goal of this CTF is simple: Get to level 28.  For this hackathon we'll be doing a challenge maintained by the OverTheWire group. First thing's first: Set up a team.
 
 Teams are between 1 and 3 people, but this challenge is linear so scaling numbers of people won't necessarily help you.  Teams will share the same login, so make sure your password is okay to share between the team members.
 
